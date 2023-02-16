@@ -16,9 +16,12 @@
 1.1 安装火狐浏览器. 
 ```
 
-## 3. 项目下直接运行 mainUi.py 即可。
+## 3. 项目在PyCharm里直接运行 mainUi.py 即可。
 
-## 4. 也可打包运行，打包命令mainUi.py 里面有，即：pyinstaller -F -w -i car.ico mainUI.py。
+## 4. 也可打包运行，打包命令mainUi.py 里面有；命令为：pyinstaller -F -w -i car.ico mainUI.py。
 ```
 4.1 打包需要安装：pip install pyinstaller
+4.2 需要将项目里面的geckodriver.exe 拷贝到 mainUI.exe 的同级目录
+4.3 直接运行 mainUI.exe 即。
 ```
+## 如有疑问@我，Email:ysongren@163.com。 wx:ysongren
