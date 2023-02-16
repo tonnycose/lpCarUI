@@ -1,8 +1,10 @@
 # lpCarUI
 零跑汽车截图项目（app+Web）
-![./index.png ]. 
+![This is an image](https://github.com/tonnycose/lpCarUI/blob/main/index.png)
+```
 》本项目可以自己配置时间节点
 》可以自动截图和手动截图；自动截图每天在指定的时间点自动解析截图
+```
 ## 1. app金融平台环境：
 ```
 1.1 安装Applium.
